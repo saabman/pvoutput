@@ -169,6 +169,12 @@ ADDSTATUS_PARAMETERS = {
         "format": r"[123]{1}",
         "donation_required": False,
     },
+    "b1": {
+        "required": False,
+        "description": "Battery Power",
+        "type": int,
+        "donation_required": False,
+    },
     "m1": {
         "required": False,
         "description": "Text Message 1",
