@@ -175,6 +175,12 @@ ADDSTATUS_PARAMETERS = {
         "type": int,
         "donation_required": False,
     },
+    "b2": {
+        "required": False,
+        "description": "Battery State of Charge",
+        "type": int,
+        "donation_required": False,
+    },
     "m1": {
         "required": False,
         "description": "Text Message 1",
